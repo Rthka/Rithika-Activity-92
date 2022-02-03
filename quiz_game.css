@@ -1,0 +1,14 @@
+#output
+{
+background: yellowgreen;
+border-radius: 10px;
+border-top: 10px solid #ffffff;
+padding: 10px;
+float: none;
+text-align: left;
+width:500px;
+}
+
+body{
+background:orange;
+}
